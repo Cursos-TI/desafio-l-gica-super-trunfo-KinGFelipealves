@@ -178,3 +178,4 @@ printf("\n=== Comparações IF E ELSE  ===\n");
         printf("SUPER PODER DA: CARTA 2 VENCEU!\n");
     }
     return 0;
+}
